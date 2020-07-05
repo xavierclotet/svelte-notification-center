@@ -2,7 +2,7 @@
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
-    "test": "jest"
+    "test": "jest src"
   },
   "dependencies": {
     "svelte": "^3.21.0"

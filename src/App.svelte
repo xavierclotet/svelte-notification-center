@@ -15,7 +15,7 @@
 
 </style>
 
-<div class="container flex flex-col max-w-4xl min-h-screen mx-auto">
+<div class="container flex flex-col max-w-4xl min-h-screen mx-auto mt-2">
   <!-- top menu -->
   <header
     class="flex items-center justify-between px-5 py-3 text-gray-100 bg-gray-800">
